@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "859123492134",
+    "firebase_url": "https://appretrofit.firebaseio.com",
+    "project_id": "appretrofit",
+    "storage_bucket": "appretrofit.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:859123492134:android:c0b53ed5c003bbbe",
+        "android_client_info": {
+          "package_name": "com.example.satish.appretrofit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "859123492134-ko9p738tajscvvmnu7m73clkjlar2eqm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.satish.appretrofit",
+            "certificate_hash": "8d420a4b2134a1f9d15bf9db8b038c311ea0300d"
+          }
+        },
+        {
+          "client_id": "859123492134-89jaagvpqua54re5vav8vnn5e8f539gr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAT75I309vFJdy8Y0AS9MinklNWmouzhyI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "859123492134-89jaagvpqua54re5vav8vnn5e8f539gr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
